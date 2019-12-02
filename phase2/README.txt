@@ -1,6 +1,8 @@
 README
 ========
-To setup the project, simply clone the phase 2 project in android studio and should work after building.
+To setup the project, simply clone the phase 2 project in android studio and then go to File > Open, then in the pop up, go to, phase2 > Game, and double click on build.grade
+
+This should commence the building the process. After building, click run with Pixel 3 running at least API 28 as the android virtual machine.
 
 Note: while working on phase 2, all of our commits were still occuring for the phase 1 folder. Please look at that directory for our phase 2 commits.
 
