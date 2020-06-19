@@ -27,9 +27,8 @@ In the next level, you're escaping the law on horseback. Avoid the cacti by jump
 
 ![Level 2](https://github.com/nikolamarunic/images/blob/master/level2.png)
 
-Level Two: Player is a horse in this level. Avoid incoming cacti by tapping to jump over them. Players selecting the clowns may find some special things!
+In the climax of our adventure, we are in a shootout with the sheriff! Tap one of the top crates to take aim, and select the crate to hide behind before drawing your weapon! Tapping the sun may help you see the sheriff better :)
 
 ![Level 3](https://github.com/nikolamarunic/images/blob/master/level3.png)
 
-In the climax of our adventure, we are in a shootout with the sheriff! Tap one of the top crates to take aim, and select the crate to hide behind before drawing your weapon! Tapping the sun may help you see the sheriff better :)
 
