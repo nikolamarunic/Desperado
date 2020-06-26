@@ -17,18 +17,26 @@ This should commence the building the process. After building, click run with yo
 
 The game had several features including account creation, high score tracking, a night mode, selectable characters, as well as toggleable music.
 
-![Home](https://github.com/nikolamarunic/images/blob/master/home.png)
+<p align="center">
+  <img src = https://github.com/nikolamarunic/images/blob/master/home.png>
+</p>
 
 In the first level, you are tasked with robbing the bank! Tap the coins and watch out for bombs. There is a hidden dynamite stick in this level - tap it to clear the bombs!
 
-![Level 1](https://github.com/nikolamarunic/images/blob/master/level1.png)
+<p align="center">
+  <img src = https://github.com/nikolamarunic/images/blob/master/level1.png>
+</p>
 
 In the next level, you're escaping the law on horseback. Avoid the cacti by jumping over!
 
-![Level 2](https://github.com/nikolamarunic/images/blob/master/level2.png)
+<p align="center">
+  <img src = https://github.com/nikolamarunic/images/blob/master/level2.png>
+</p>
 
 In the climax of our adventure, we are in a shootout with the sheriff! Tap one of the top crates to take aim, and select the crate to hide behind before drawing your weapon! Tapping the sun may help you see the sheriff better :)
 
-![Level 3](https://github.com/nikolamarunic/images/blob/master/level3.png)
+<p align="center">
+  <img src = https://github.com/nikolamarunic/images/blob/master/level3.png>
+</p>
 
 
